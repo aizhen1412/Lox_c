@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "memory": "c",
+        "chunk.h": "c",
+        "common.h": "c"
+    }
+}
