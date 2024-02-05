@@ -2,6 +2,21 @@
     "files.associations": {
         "memory": "c",
         "chunk.h": "c",
-        "common.h": "c"
+        "common.h": "c",
+        "iterator": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "xhash": "cpp",
+        "xmemory": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "stdint.h": "c",
+        "stddef.h": "c",
+        "stdbool.h": "c"
     }
 }
