@@ -17,6 +17,16 @@
         "xutility": "cpp",
         "stdint.h": "c",
         "stddef.h": "c",
-        "stdbool.h": "c"
+        "stdbool.h": "c",
+        "algorithm": "c",
+        "optional": "c",
+        "system_error": "c",
+        "type_traits": "c",
+        "xlocmon": "c",
+        "xtr1common": "c",
+        "compare": "c",
+        "format": "c",
+        "tuple": "c",
+        "utility": "c"
     }
 }
