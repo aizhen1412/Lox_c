@@ -27,6 +27,7 @@
         "compare": "c",
         "format": "c",
         "tuple": "c",
-        "utility": "c"
+        "utility": "c",
+        "debug.h": "c"
     }
 }
